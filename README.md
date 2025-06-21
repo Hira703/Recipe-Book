@@ -1,7 +1,7 @@
 # 🍽️ Recipe Book App
 
-**Live Client:** [https://auth-integration-c08e3.web.app/] 
-**Live Server:** [https://recipe-book-server-silk.vercel.app]w
+**Live Client:** https://auth-integration-c08e3.web.app/
+**Live Server:** https://recipe-book-server-silk.vercel.app
 
 ---
 
